@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="notification_channel_name">Music Channel</string>
+    <string name="notification_channel_description">Displays currently playing music</string>
+    <string name="song_1">Young Fathers - Geronimo</string>
+    <string name="song_2">Grey Killer - Victor Weed</string>
+    <string name="song_3">Jay Som - Superbike</string>
+    <string name="song_4">Taras Bazeev - Sotu</string>
+    <string name="song_album_art">song album art</string>
+</resources>
